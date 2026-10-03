@@ -4,7 +4,7 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
         "UpdateSourceArch": "x86_64",
-        "UpdateSourceData": "project-reclaimer-dedicated-*.exe",
+        "UpdateSourceData": "project-reclaimer-dedicated-v0.8.15.exe",
         "UpdateSourceArgs": "ProjectReclaimer/project-reclaimer-releases",
         "OverwriteExistingFiles": true,
         "DeleteAfterExtract": true
