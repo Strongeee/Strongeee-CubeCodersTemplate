@@ -11,6 +11,7 @@
         "Port": 49175,
         "Ref": "ReclaimerBrowser",
         "Name": "Reclaimer Browser",
-        "Description": ""
+        "Description": "",
+        "Required": true
     }
 ]
