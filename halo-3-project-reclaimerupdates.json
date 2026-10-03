@@ -6,7 +6,14 @@
         "UpdateSourceArch": "x86_64",
         "UpdateSourceData": "project-reclaimer-dedicated-v0.8.15.exe",
         "UpdateSourceArgs": "ProjectReclaimer/project-reclaimer-releases",
-        "UpdateSourceTarget": "serverfiles",
+        "UpdateSourceTarget": "reclaimer",
         "OverwriteExistingFiles": true
+    },
+    {
+        "UpdateStageName": "Rename File",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "MoveFile",
+        "UpdateSourceData": "project-reclaimer.exe",
+        "UpdateSourceArgs": "./myapp/reclaimer/project-reclaimer-dedicated-v0.8.15.exe"
     }
 ]
